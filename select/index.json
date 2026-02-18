@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "GOAT!",
+  "base_artist": "黒うさぎ",
+  "createdAt": "2026-02-18T15:06:38.416511Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The God Man's Goat Lust",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/01_The_God_Man's_Goat_Lust_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Goat",
+      "artist": "Lil Tjay",
+      "has_synced": true,
+      "path": "select/02_Goat_Lil_Tjay.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "An Poc Ar Buile (The Mad Puck Goat)",
+      "artist": "The Chieftains",
+      "has_synced": true,
+      "path": "select/03_An_Poc_Ar_Buile_(The_Mad_Puck_Goat)_The_Chieftains.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Poc Ar Buile (The Mad Puck Goat)",
+      "artist": "The Chieftains",
+      "has_synced": false,
+      "path": "select/04_Poc_Ar_Buile_(The_Mad_Puck_Goat)_The_Chieftains.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Free The Goat (feat. Shad Da God)",
+      "artist": "Yak Gotti feat. Shad Da God",
+      "has_synced": true,
+      "path": "select/05_Free_The_Goat_(feat._Shad_Da_God)_Yak_Gotti_feat._Shad_Da_God.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Free The Goat (feat. Shad Da God)",
+      "artist": "Shad Da God & Yak Gotti",
+      "has_synced": true,
+      "path": "select/06_Free_The_Goat_(feat._Shad_Da_God)_Shad_Da_God_&_Yak_Gotti.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Throat Goat",
+      "artist": "Kim Petras",
+      "has_synced": true,
+      "path": "select/07_Throat_Goat_Kim_Petras.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "3 Headed Goat (feat. Lil Baby & Polo G)",
+      "artist": "Lil Durk feat. Lil Baby & Polo G",
+      "has_synced": true,
+      "path": "select/08_3_Headed_Goat_(feat._Lil_Baby_&_Polo_G)_Lil_Durk_feat._Lil_Baby_&_Polo_G.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "3 Headed Goat",
+      "artist": "Lil Durk",
+      "has_synced": true,
+      "path": "select/09_3_Headed_Goat_Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Bull and The Goat",
+      "artist": "Annuals",
+      "has_synced": true,
+      "path": "select/10_The_Bull_and_The_Goat_Annuals.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lyin' Goat",
+      "artist": "Laika",
+      "has_synced": false,
+      "path": "select/11_Lyin'_Goat_Laika.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ordo Templi Orientis (The Goat of Mendes)",
+      "artist": "Goat of Mendes",
+      "has_synced": false,
+      "path": "select/12_Ordo_Templi_Orientis_(The_Goat_of_Mendes)_Goat_of_Mendes.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Tiny Goat",
+      "artist": "The Gothic Archies",
+      "has_synced": true,
+      "path": "select/13_The_Tiny_Goat_The_Gothic_Archies.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Black Goat of the Woods",
+      "artist": "Unleash the Archers",
+      "has_synced": true,
+      "path": "select/14_Black_Goat_of_the_Woods_Unleash_the_Archers.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Candle Goat",
+      "artist": "Sunn O)))",
+      "has_synced": false,
+      "path": "select/15_Candle_Goat_Sunn_O))).txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Goat Man",
+      "artist": "Sematary feat. Ghost Mountain",
+      "has_synced": false,
+      "path": "select/16_Goat_Man_Sematary_feat._Ghost_Mountain.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Goat Man",
+      "artist": "Sematary & Ghost Mountain",
+      "has_synced": false,
+      "path": "select/17_Goat_Man_Sematary_&_Ghost_Mountain.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Goat Willow",
+      "artist": "Hawkwind",
+      "has_synced": false,
+      "path": "select/18_Goat_Willow_Hawkwind.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GOAT!",
+      "artist": "黒うさぎ",
+      "has_synced": false,
+      "path": "select/pl_01_GOAT!_黒うさぎ.txt"
+    }
+  ]
+}
